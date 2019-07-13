@@ -4,7 +4,7 @@
 #
 Name     : msgpack
 Version  : 0.5.6
-Release  : 6
+Release  : 7
 URL      : https://files.pythonhosted.org/packages/f3/b6/9affbea179c3c03a0eb53515d9ce404809a122f76bee8fc8c6ec9497f51f/msgpack-0.5.6.tar.gz
 Source0  : https://files.pythonhosted.org/packages/f3/b6/9affbea179c3c03a0eb53515d9ce404809a122f76bee8fc8c6ec9497f51f/msgpack-0.5.6.tar.gz
 Summary  : MessagePack (de)serializer.
