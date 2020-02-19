@@ -6,4 +6,5 @@ os-ken
 oslo.privsep
 oslo.serialization
 pynvim
+tinyrpc
 tooz
