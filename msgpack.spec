@@ -4,7 +4,7 @@
 #
 Name     : msgpack
 Version  : 1.0.0
-Release  : 12
+Release  : 13
 URL      : https://files.pythonhosted.org/packages/e4/4f/057549afbd12fdd5d9aae9df19a6773a3d91988afe7be45b277e8cee2f4d/msgpack-1.0.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/e4/4f/057549afbd12fdd5d9aae9df19a6773a3d91988afe7be45b277e8cee2f4d/msgpack-1.0.0.tar.gz
 Summary  : MessagePack (de)serializer.
@@ -41,6 +41,7 @@ python components for the msgpack package.
 Summary: python3 components for the msgpack package.
 Group: Default
 Requires: python3-core
+Provides: pypi(msgpack)
 
 %description python3
 python3 components for the msgpack package.
@@ -55,7 +56,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1582082568
+export SOURCE_DATE_EPOCH=1583174735
 # -Werror is for werrorists
 export GCC_IGNORE_WERROR=1
 export CFLAGS="$CFLAGS -fno-lto "
