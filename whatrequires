@@ -1,10 +1,5 @@
 # This file contains recursive sources that require this package
 distributed
-keystone
-locustio
-os-ken
-oslo.privsep
-oslo.serialization
+influxdb
 pynvim
-tinyrpc
-tooz
+salt
